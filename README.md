@@ -21,8 +21,8 @@ pip install -e .
 ```bash
 pip install notebook
 ```
-The problem that you need to solve and deliver is in the notebook *problem*. In cas you do not know where to begin, you can check the tutorials for the Theory/Software and Hardware that we have prepared for you.\\
-You will find the tutorial for the first part of the challenge in the folder **Tutorials** named as *max-cut-example*.\\
-The tutorial for the Hardware part is in the same folder under the name of *hardware-tutorial*.\\
+The problem that you need to solve and deliver is in the notebook *problem*. In cas you do not know where to begin, you can check the tutorials for the Theory/Software and Hardware that we have prepared for you.
+You will find the tutorial for the first part of the challenge in the folder **Tutorials** named as *max-cut-example*.
+The tutorial for the Hardware part is in the same folder under the name of *hardware-tutorial*.
 
 Good luck!
